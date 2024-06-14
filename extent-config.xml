@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+  <configuration>
+    <theme>dark</theme>
+    <encoding>UTF-8</encoding>
+    <protocol>http</protocol>
+    <documentTitle>Automated Test Execution Report</documentTitle>
+   	<reportName>Automated CPQ Document Designer Test Execution Report</reportName>
+    <reportHeadline>Report Headline</reportHeadline>
+    <dateFormat>yyyy-MM-dd</dateFormat>
+    <timeFormat>HH:mm:ss</timeFormat>
+    
+    <!-- custom javascript -->
+    <scripts>
+		<![CDATA[
+		$(document).ready(function() {
+		            $('#parentWithoutNodes').prop("checked", true).click();
+		$('#test-count-setting > div.modal-footer > a')[0].click();
+		});
+		]]>
+		</scripts>
+    
+    <!-- custom styles -->
+    <styles>
+      <![CDATA[
+        
+      ]]>
+    </styles>
+  </configuration>
+</extentreports>

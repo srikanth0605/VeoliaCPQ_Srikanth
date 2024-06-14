@@ -1,0 +1,556 @@
+{
+  "styles": [
+    {
+      "Normal": {
+        "font_name": "Times New Roman",
+        "font_size": 10,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading 1": {
+        "font_name": "Times New Roman",
+        "font_size": 16.0,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 12.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading 2": {
+        "font_name": "Times New Roman",
+        "font_size": 13.0,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 2.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading 3": {
+        "font_name": "Times New Roman",
+        "font_size": 10,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 2.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading 4": {
+        "font_name": "Times New Roman",
+        "font_size": 11.0,
+        "font_bold": false,
+        "font_italic": true,
+        "space_before": 2.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading 5": {
+        "font_name": "Times New Roman",
+        "font_size": 11.0,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 2.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading 6": {
+        "font_name": "Times New Roman",
+        "font_size": 11.0,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 2.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading 7": {
+        "font_name": "Times New Roman",
+        "font_size": 11.0,
+        "font_bold": false,
+        "font_italic": true,
+        "space_before": 2.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading 8": {
+        "font_name": "Times New Roman",
+        "font_size": 10.5,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 2.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading 9": {
+        "font_name": "Times New Roman",
+        "font_size": 10.5,
+        "font_bold": false,
+        "font_italic": true,
+        "space_before": 2.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Default Paragraph Font": {
+        "font_name": "Times New Roman",
+        "font_size": 10,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 2.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Appendix Header - Heading 1": {
+        "font_name": "Helvetica",
+        "font_size": 20.0,
+        "font_bold": true,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    },
+    {
+      "Appendix Headings - Appendix 1": {
+        "font_name": "Liberation Sans",
+        "font_size": 16.0,
+        "font_bold": true,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    },
+    {
+      "Appendix Headings - Appendix 2": {
+        "font_name": "Liberation Sans",
+        "font_size": 10,
+        "font_bold": true,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    },
+    {
+      "Appendix Headings - Appendix 3": {
+        "font_name": "Liberation Sans",
+        "font_size": 11.0,
+        "font_bold": true,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    },
+    {
+      "Appendix Headings - Appendix 4": {
+        "font_name": "Liberation Sans",
+        "font_size": 10.0,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading Styles - Heading 1": {
+        "font_name": "Liberation Sans",
+        "font_size": 20.0,
+        "font_bold": true,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading Styles - Heading 2": {
+        "font_name": "Liberation Sans",
+        "font_size": 16.0,
+        "font_bold": true,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading Styles - Heading 3": {
+        "font_name": "Liberation Sans",
+        "font_size": 10,
+        "font_bold": true,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    },
+    {
+      "Heading Styles - Heading 4": {
+        "font_name": "Liberation Sans",
+        "font_size": 11.0,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    },
+    {
+      "Intense Quote": {
+        "font_name": "Times New Roman",
+        "font_size": 10,
+        "font_bold": false,
+        "font_italic": true,
+        "space_before": 18.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Quote": {
+        "font_name": "Times New Roman",
+        "font_size": 10,
+        "font_bold": false,
+        "font_italic": true,
+        "space_before": 10.0,
+        "space_after": 0
+      }
+    },
+    {
+      "Subtitle": {
+        "font_name": "Times New Roman",
+        "font_size": 10,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    },
+    {
+      "Title": {
+        "font_name": "Times New Roman",
+        "font_size": 28.0,
+        "font_bold": false,
+        "font_italic": false,
+        "space_before": 0,
+        "space_after": 0
+      }
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "paragraph_index": 1,
+      "font_attributes": {
+        "font_name": "Heading 3"
+      },
+      "index": 1,
+      "text": "Cartridge Filter"
+    },
+    {
+      "type": "table",
+      "index": 2,
+      "table_index": 1,
+      "column_count": 2,
+      "row_count": 2,
+      "rows_format": [
+        {
+          "row_index": 1,
+          "text": "Model",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 2,
+          "text": "Part Number",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_index": 2,
+      "font_attributes": {
+        "font_name": "Normal"
+      },
+      "index": 3,
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "paragraph_index": 3,
+      "font_attributes": {
+        "font_name": "Section Header"
+      },
+      "index": 4,
+      "text": "Design Data"
+    },
+    {
+      "type": "table",
+      "index": 5,
+      "table_index": 2,
+      "column_count": 2,
+      "row_count": 8,
+      "rows_format": [
+        {
+          "row_index": 1,
+          "text": "Number of Housings",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 2,
+          "text": "Filters Per Housing",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 3,
+          "text": "Configuration",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 4,
+          "text": "Housing Orientation",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 5,
+          "text": "Housing Pressure Rating",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 6,
+          "text": "Service Flow per Housing",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 7,
+          "text": "Clean Pressure Drop with Filters",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 8,
+          "text": "Filter Length",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_index": 4,
+      "font_attributes": {
+        "font_name": "Normal"
+      },
+      "index": 6,
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "paragraph_index": 5,
+      "font_attributes": {
+        "font_name": "Section Header"
+      },
+      "index": 7,
+      "text": "Materials of Construction & Controls"
+    },
+    {
+      "type": "table",
+      "index": 8,
+      "table_index": 3,
+      "column_count": 2,
+      "row_count": 5,
+      "rows_format": [
+        {
+          "row_index": 1,
+          "text": "Filter",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 2,
+          "text": "Housing",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 3,
+          "text": "Piping",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 4,
+          "text": "Valves",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 5,
+          "text": "Gauges",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_index": 6,
+      "font_attributes": {
+        "font_name": "Normal"
+      },
+      "index": 9,
+      "text": "\t\t\t\t"
+    },
+    {
+      "type": "paragraph",
+      "paragraph_index": 7,
+      "font_attributes": {
+        "font_name": "Section Header"
+      },
+      "index": 10,
+      "text": "Installation and Utility Requirements"
+    },
+    {
+      "type": "table",
+      "index": 11,
+      "table_index": 4,
+      "column_count": 2,
+      "row_count": 8,
+      "rows_format": [
+        {
+          "row_index": 1,
+          "text": "Dimensions:",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 2,
+          "text": "Length",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 3,
+          "text": "Width",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 4,
+          "text": "Height",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 5,
+          "text": "Clearance Height",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 6,
+          "text": "Inlet Connection",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 7,
+          "text": "Outlet Connection",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        },
+        {
+          "row_index": 8,
+          "text": "Shipping Weight Estimate",
+          "multi_index": 1,
+          "font_attributes": {
+            "font_name": "Normal"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_index": 8,
+      "font_attributes": {
+        "font_name": "Normal"
+      },
+      "index": 12,
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "paragraph_index": 9,
+      "font_attributes": {
+        "font_name": "Section Header"
+      },
+      "index": 13,
+      "text": "Features Included"
+    },
+    {
+      "type": "paragraph",
+      "paragraph_index": 10,
+      "font_attributes": {
+        "font_name": "Normal"
+      },
+      "index": 14,
+      "text": "Features"
+    }
+  ]
+}
